@@ -1,3 +1,4 @@
+
 import { getProducts, getCategory } from "@/lib/api";
 import ProductCard from "@/components/ProductCard";
 import ProductSkeleton from "@/components/ProductSkeleton";
